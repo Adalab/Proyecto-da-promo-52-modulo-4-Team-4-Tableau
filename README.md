@@ -1,4 +1,4 @@
-# 🌐 Análisis global del uso de Redes Sociales (RRSS) y su impacto en estudiantes
+# 🌐 Análisis global del uso de Redes Sociales (RRSS) y su impacto en estudiantes entre 18 y 24 años.
 
 Este proyecto explora cómo se usan las redes sociales a nivel global, con énfasis en sus efectos sobre la salud mental, el sueño y el comportamiento de los estudiantes entre 18 y 24 años. La visualización fue desarrollada en **Tableau** y está basada en 3 fuentes de datos que hemos analizado y limpiado con Visual Code.
 

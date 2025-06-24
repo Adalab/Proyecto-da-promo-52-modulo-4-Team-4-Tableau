@@ -40,8 +40,7 @@ La herramienta se divide en 3 dashboards que responden a 3 preguntas principales
 ## 🚀 Cómo ver el dashboard
 
 Puedes ver la visualización completa en Tableau Public:
-
-🔗 [(https://public.tableau.com/app/profile/gemma.traguany/viz/PROYECTOSOCIALMEDIA2306/0Portada?publish=yes)](#)
+🔗 [https://public.tableau.com/app/profile/gemma.traguany/viz/PROYECTOSOCIALMEDIA2306/0Portada?publish=yes](#)
 
 ---
 

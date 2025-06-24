@@ -18,11 +18,13 @@ La herramienta se divide en 3 dashboards que responden a 3 preguntas principales
 ### 2. ¿Cómo afecta el uso de las Redes Sociales a los/as estudiantes entre 18 y 24 años?
 - Comparativa entre **uso y nivel de adicción** por red.
 - Relación entre **horas de sueño y salud mental**.
-- Correlación entre **interacciones (likes, comentarios)** y emociones generadas.
+- Relación entre **edad, nivel de adicción, nivel académico y si las RRSS afectan o no al rendimiento académico**.
 - Asociación entre mayor uso, menos sueño y más conflictos sociales.
 
-### 3. 
-
+### 3. ¿Hay un impacto en la Salud Mental de los/as estudiantes que utilizan Redes Sociales?
+- Mapa interactivo de **niveles de salud mental por país**.
+- Correlación entre **interacciones (likes, comentarios)** y emociones generadas.
+- Comparativa entre **uso y género** por red.
 
 ---
 
@@ -34,6 +36,12 @@ La herramienta se divide en 3 dashboards que responden a 3 preguntas principales
 - A mayor uso, **menos horas de sueño y peor salud mental**.
 - Países como **Ecuador y República Checa** presentan altos niveles de adicción y baja puntuación en bienestar mental.
 - Las emociones varían por red: Instagram genera **felicidad**, mientras que Twitter y LinkedIn se asocian más con **enojo y aburrimiento**.
+
+## 💡 Propuestas de Mejora
+
+- Promover campañas de bienestar digital en estudiantes
+- Promover un sueño efectivo entre jóvenes.
+- Monitorizar el uso con herramientas preventivas personalizadas.
 
 ---
 
